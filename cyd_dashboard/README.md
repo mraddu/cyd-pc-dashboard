@@ -1,5 +1,7 @@
 # CYD Windows PC Dashboard - Futuristic HUD Edition
-
+<p align="center">
+  <img src="dashboard-photo.jpg" alt="CYD Dashboard" width="500">
+</p>
 A touch-navigable system monitor for your Windows 11 PC, running on the
 ESP32-2432S028 CYD, connected over USB serial.
 
